@@ -2,6 +2,8 @@
 
 Ionic2 application to reproduce strange 'blank page effect' when navigate between two different tabs pages on iOs.
 
+[Ionic forum topic](https://forum.ionicframework.com/t/error-while-navigate-between-tab-pages/70455)
+
 
 1. Install the the latest beta version of the Ionic CLI:
     ```
